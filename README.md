@@ -3,12 +3,15 @@ The ANPR algorithm uses yolo to detect number plates. The cropped image of the d
 
 # Outputs
 1. Image of a car with visible number plate:
+
 ![](Test_Image_Car.png)
 
 2. Detected Numberplate:
+
 ![](Detected_Number_Plate.png)
 
 3. Detected Characters:
+
 ![](Detected_Chars.png)
 
 # Contributor Contact:
