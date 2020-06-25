@@ -2,7 +2,7 @@
 The ANPR algorithm uses yolo to detect number plates. The cropped image of the detected number plates are then pre-processed to highlight only individual characters (numbers and alphabets). A trained CNN model then converts previously identified characters into text format.
 
 # Outputs
-1. Image of a car with visible number plate.
+1. Image of a car with visible number plate:
 ![](Test_Image_Car.png)
 
 2. Detected Numberplate:
