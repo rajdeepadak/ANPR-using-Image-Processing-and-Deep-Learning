@@ -14,6 +14,8 @@ The ANPR algorithm uses yolo to detect number plates. The cropped image of the d
 
 ![](Detected_Chars.png)
 
+# Detected number plate valuesin text format: TN74AH1413
+
 # Contributor Contact:
 1. Rajdeep Adak (rajdeep.adak@somaiya.edu).
 2. Abhishek Kumbhar (abhishek.kumbhar@somaiya.edu).
